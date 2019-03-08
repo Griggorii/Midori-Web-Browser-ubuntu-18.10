@@ -20,4 +20,6 @@ https://github.com/Griggorii/Midori-Web-Browser-ubuntu-18.10/blob/master/Midori%
 
 https://github.com/Griggorii/Midori-Web-Browser-ubuntu-18.10/blob/master/Setting%20Global%20My%20config%20OS%208.0.png
 
+Брауер испытан в цветовой гамме показывает отлично допустим просмотреть вот этот фильм https://www.yandex.ru/portal/video/?yclid=1070193656984796386&stream_id=497bf3fd13e82f4aacb2df76828edbbb
+
 Griggorii@gmail.com
