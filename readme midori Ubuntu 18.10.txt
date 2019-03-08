@@ -1,3 +1,7 @@
+inpack core-master.zip
+
+core-master folder run terminal
+
 && sudo make install
 
 sudo rm -rf /usr/local/lib/libmidori-core.so.0.6
