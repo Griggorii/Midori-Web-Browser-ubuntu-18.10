@@ -24,4 +24,6 @@ https://github.com/Griggorii/Midori-Web-Browser-ubuntu-18.10/blob/master/Setting
 
 Что бы руссифицировать интерфейс до конца надо будет ещё установить его поверх http://archive.ubuntu.com/ubuntu/pool/universe/m/midori/midori_0.5.11-ds1-2_amd64.deb пакет откроется в магазине гнома и вы его установите
 
+В общем надо узнать что там за кодек так хорошо воспроизводит в гамме и портануть его на firefox потому что цвета в видео в два раза лучше 
+
 Griggorii@gmail.com
