@@ -22,4 +22,6 @@ https://github.com/Griggorii/Midori-Web-Browser-ubuntu-18.10/blob/master/Setting
 
 Брауер испытан в цветовой гамме показывает отлично допустим просмотреть вот этот фильм https://www.yandex.ru/portal/video/?yclid=1070193656984796386&stream_id=497bf3fd13e82f4aacb2df76828edbbb
 
+Что бы руссифицировать интерфейс до конца надо будет ещё установить его поверх http://archive.ubuntu.com/ubuntu/pool/universe/m/midori/midori_0.5.11-ds1-2_amd64.deb пакет откроется в магазине гнома и вы его установите
+
 Griggorii@gmail.com
