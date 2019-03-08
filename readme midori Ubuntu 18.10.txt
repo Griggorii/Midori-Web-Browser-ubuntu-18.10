@@ -1,3 +1,5 @@
+https://github.com/Griggorii/Midori-Web-Browser-ubuntu-18.10
+
 inpack core-master.zip
 
 core-master folder run terminal
