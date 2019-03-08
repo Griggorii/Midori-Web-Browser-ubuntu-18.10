@@ -16,4 +16,6 @@ run terminal
 
 && midori
 
+https://github.com/Griggorii/Midori-Web-Browser-ubuntu-18.10/blob/master/Midori%20fonts.png
+
 Griggorii@gmail.com
