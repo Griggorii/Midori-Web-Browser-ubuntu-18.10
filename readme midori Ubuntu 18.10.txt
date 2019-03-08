@@ -16,6 +16,8 @@ run terminal
 
 && midori
 
-https://github.com/Griggorii/Midori-Web-Browser-ubuntu-18.10/blob/master/Midori%20fonts.png
+https://github.com/Griggorii/Midori-Web-Browser-ubuntu-18.10/blob/master/Midori%20fonts.png 
+
+https://github.com/Griggorii/Midori-Web-Browser-ubuntu-18.10/blob/master/Setting%20Global%20My%20config%20OS%208.0.png
 
 Griggorii@gmail.com
