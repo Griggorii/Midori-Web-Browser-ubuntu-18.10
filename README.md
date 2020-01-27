@@ -5,6 +5,12 @@ sudo apt install intltool libxml2-utils pkg-config libsqlite3-dev libglib2.0-dev
 
 install vala_0.30.0-1_amd64.deb development tool
 
-Source https://github.com/midori-browser/core
+install midori_18.10-1_amd64.deb
+
+_______________________________________________
+
+Source midori support https://github.com/midori-browser/core
+
+My support https://github.com/Griggorii
 
 Griggorii@gmail.com
