@@ -11,8 +11,6 @@ Ubuntu build in  18.10 apk 2,6 MB (2 633 472 байта) Java-8-Oracle [![logo](
 
 Ubuntu build in 20.04 apk 2,6 MB (2 630 116 байт) OpenJDK Java 8 [![logo](https://github.com/Griggorii/openjdk-8-jdk_griggorii_build_ubuntu_20.04?branch=master)]
 
-rustfmt Build Status Build Status crates.io Travis Configuration Status1
-
 _______________________________________________
 
 Source midori support https://github.com/midori-browser/core
