@@ -7,6 +7,10 @@ install vala_0.30.0-1_amd64.deb development tool
 
 install midori_18.10-1_amd64.deb
 
+Ubuntu build in  18.10 apk 2,6 MB (2 633 472 байта)
+
+Ubuntu build in 20.04 2,6 MB (2 630 116 байт)
+
 _______________________________________________
 
 Source midori support https://github.com/midori-browser/core
