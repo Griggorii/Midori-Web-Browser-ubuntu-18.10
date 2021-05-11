@@ -11,6 +11,8 @@ Ubuntu size build in  18.10 apk 2,6 MB (2 633 472 байта) Java-8-Oracle <a h
 
 Ubuntu size build in 20.04 apk 2,6 MB (2 630 116 байт) OpenJDK Java 8 <a href="https://github.com/Griggorii/openjdk-8-jdk_griggorii_build_ubuntu_20.04?branch=master"><img src="https://raw.githubusercontent.com/Griggorii/openjdk-8-jdk_griggorii_build_ubuntu_20.04/main/logo.png" alt=""></a>
 
+2633472−2630116=3356 -3356 new build
+
 _______________________________________________
 
 Source midori support https://github.com/midori-browser/core
