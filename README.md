@@ -7,9 +7,11 @@ install vala_0.30.0-1_amd64.deb development tool
 
 install midori_18.10-1_amd64.deb
 
-Ubuntu build in  18.10 apk 2,6 MB (2 633 472 байта) Java-8-Oracle
+Ubuntu build in  18.10 apk 2,6 MB (2 633 472 байта) Java-8-Oracle [![Build Status](https://github.com/Griggorii/java-8-oracle_linux_modification_engine_by_Griggorii)]
 
-Ubuntu build in 20.04 apk 2,6 MB (2 630 116 байт) OpenJDK Java 8
+Ubuntu build in 20.04 apk 2,6 MB (2 630 116 байт) OpenJDK Java 8 [![Build Status](https://github.com/Griggorii/openjdk-8-jdk_griggorii_build_ubuntu_20.04)]
+
+rustfmt Build Status Build Status crates.io Travis Configuration Status
 
 _______________________________________________
 
